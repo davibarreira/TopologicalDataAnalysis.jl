@@ -1,4 +1,8 @@
-![TopologicalDataAnalysis](./images/LogoTopologicalDataAnalysis.svg)
+<p align="center">
+  <img width=80%, src="./images/LogoTopologicalDataAnalysis.svg" />
+</p>
+
+<!-- ![TopologicalDataAnalysis](./images/LogoTopologicalDataAnalysis.svg) -->
 <!-- # TopologicalDataAnalysis.jl -->
 
 [![Build Status](https://github.com/davibarreira/TopologicalDataAnalysis.jl/workflows/CI/badge.svg)](https://github.com/davibarreira/TopologicalDataAnalysis.jl/actions)
@@ -7,3 +11,5 @@
 This package provides some [Julia](https://julialang.org/) implementations
 for Topological Data Analysis, inspired by
 [Velour](https://github.com/raphaeltinarrage/velour/blob/main/velour) package.
+
+More to come.
