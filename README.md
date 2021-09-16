@@ -6,10 +6,10 @@
 <!-- # TopologicalDataAnalysis.jl -->
 
 [![Build Status][gha-img]][gha-url]
-<!-- [![][bag-stb]][bld-stb] -->
 [![][bag-dev]][bld-dev]
-<!-- [![Build Status](https://github.com/davibarreira/TopologicalDataAnalysis.jl/workflows/CI/badge.svg)](https://github.com/davibarreira/TopologicalDataAnalysis.jl/actions) -->
 [![Coverage](https://codecov.io/gh/davibarreira/TopologicalDataAnalysis.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/davibarreira/TopologicalDataAnalysis.jl)
+<!-- [![][bag-stb]][bld-stb] -->
+<!-- [![Build Status](https://github.com/davibarreira/TopologicalDataAnalysis.jl/workflows/CI/badge.svg)](https://github.com/davibarreira/TopologicalDataAnalysis.jl/actions) -->
 
 This package provides some [Julia](https://julialang.org/) implementations
 for Topological Data Analysis, inspired by
@@ -20,7 +20,7 @@ More to come.
 ## Desired Features
 - [x] Pending;
 
-[gha-img]: https://github.com/davibarreira/TopologicalDataAnalysis.jl/workflows/CI/badge.svg
+[gha-img]: https://github.com/davibarreira/TopologicalDataAnalysis.jl/actions/workflows/Documentation.yml/badge.svg
 [gha-url]: https://github.com/davibarreira/TopologicalDataAnalysis.jl/actions?query=workflow%3ACI
 [bag-dev]: https://img.shields.io/badge/docs-dev-blue.svg
 [bld-dev]: https://juliagraphs.org/TopologicalDataAnalysis.jl/dev
