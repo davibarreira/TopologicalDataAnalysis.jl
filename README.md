@@ -23,6 +23,6 @@ More to come.
 [gha-img]: https://github.com/davibarreira/TopologicalDataAnalysis.jl/actions/workflows/Documentation.yml/badge.svg
 [gha-url]: https://github.com/davibarreira/TopologicalDataAnalysis.jl/actions?query=workflow%3ACI
 [bag-dev]: https://img.shields.io/badge/docs-dev-blue.svg
-[bld-dev]: https://juliagraphs.org/TopologicalDataAnalysis.jl/dev
+[bld-dev]: https://github.com/davibarreira/TopologicalDataAnalysis.jl/dev
 <!-- [bag-stb]: https://img.shields.io/badge/docs-stable-blue.svg -->
 <!-- [bld-stb]: https://juliagraphs.org/VegaGraphs.jl/stable -->
