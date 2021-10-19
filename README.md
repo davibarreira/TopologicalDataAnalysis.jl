@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=80%, src="./images/LogoTopologicalDataAnalysis.svg" />
+  <img width=50%, src="./images/LogoTopologicalDataAnalysis.svg" />
 </p>
 
 <!-- ![TopologicalDataAnalysis](./images/LogoTopologicalDataAnalysis.svg) -->
